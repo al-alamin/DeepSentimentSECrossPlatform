@@ -1,6 +1,9 @@
 # Deep Sentiment SE Cross-Platform
+** Update: Under review in Automated Software Engineering Journal.**
 
-This repository contains the data, code, pre-trained models, experiment results for our ressearch project - **An Empirical Study of Three Deep Learning Sentiment Detection Tools for SE in Cross-Platform Settings** 
+This repository contains the data, code, pre-trained models, experiment results for our ressearch project - **An Empirical Study of Three Deep Learning Sentiment Detection Tools for SE in Cross-Platform Settings**
+
+
 
 ## Overview of Sentiment4SE
 A deep learning based Sentiment Analysis tool for Software Engineering datasets.
