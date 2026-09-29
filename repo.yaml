@@ -1,0 +1,18 @@
+schema_version: 1
+summary: A locally maintained research replication fork for comparing sentiment-analysis
+  tools across software-engineering platforms.
+state: unknown
+intended_readers:
+- Researchers and maintainers of the sentiment-study replication fork.
+consult_when:
+- Locating the documented study organization, replication tools or third-party dataset
+  provenance.
+watch_when:
+- Changes to the locally maintained README or analysis, tools and replication-material
+  organization.
+current_capabilities:
+- README documents the cross-platform sentiment study and replication layout; analysis/,
+  datasets/, generated_output/, manual_labeling/ and tools/ are tracked.
+- The fork contains a local README update relative to its upstream comparison, establishing
+  local documentation maintenance.
+planned_capabilities: []
